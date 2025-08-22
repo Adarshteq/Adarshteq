@@ -1,5 +1,5 @@
 <div align="center">
-<h1>👋 Hey, I'm Adarsh –  **Adarshteq** 👨‍💻</h1>
+<h1>👋 Hey, I'm Adarsh 👨‍💻</h1>
 </div>
 
 <div align="center">
