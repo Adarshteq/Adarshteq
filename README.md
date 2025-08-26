@@ -6,7 +6,8 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
- <img src="![github](https://github.com/user-attachments/assets/2a34a45a-8ac1-49f3-8d13-7631dba4cf5a)"  align="right" width="300" alt="Full Stack Development">
+ <img src="![github](https://github.com/user-attachments/assets/12c31f6a-6ba4-42a4-b40b-a109cd5f0729)
+"  align="right" width="300" alt="Full Stack Development">
 
 ### 🌟 Quick Facts About Me
 
