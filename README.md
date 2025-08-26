@@ -6,7 +6,7 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
- <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  align="right" width="300" alt="Full Stack Development">
+ <img src="![github](https://github.com/user-attachments/assets/2a34a45a-8ac1-49f3-8d13-7631dba4cf5a)"  align="right" width="300" alt="Full Stack Development">
 
 ### 🌟 Quick Facts About Me
 
@@ -16,7 +16,7 @@
 - 🚀 **Focus:** Full Stack Development 
 - 🎯 **Current Learning:** Advanced React Patterns, Tailwind CSS
 - 🎮 **Hobbies:** Gaming, Exploring New Tools&Technologies, Building Side Projects
-- 🧩 **Passionate About:** Problem Solving & UI/UX Design & Graphic Designing & Thumbnail Designing
+- 🧩 **Passionate About:** UI/UX Design & Graphic Designing & Thumbnail Designing
 
 <p align="center">"Code is poetry written in logic, and every bug is just a plot twist!"</p>
 
