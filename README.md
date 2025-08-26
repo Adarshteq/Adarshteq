@@ -7,7 +7,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
   
-  <img src="https://github.com/user-attachments/assets/1df4c5f1-ba2d-4f1c-b2ab-bbeff062efa6"  align="right" width="350px" height="350px" alt="Full Stack Development">
+  <img src="https://github.com/user-attachments/assets/1df4c5f1-ba2d-4f1c-b2ab-bbeff062efa6"  align="right" width="360px" height="360px" alt="Full Stack Development">
 
 ### 🌟 Quick Facts About Me
 
