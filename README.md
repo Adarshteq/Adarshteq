@@ -14,12 +14,11 @@
 - 🎓 **AI&ML Student** passionate about technology and coding
 - 💻 **Self-Taught Developer** with a love for learning
 - 🌍 **Location:** India 🇮🇳
-- 🚀 **Focus:** Full Stack Development 
-- 🎯 **Current Learning:** Advanced React Patterns, Tailwind CSS
+- 🎯 **Current Learning:** Advanced React Patterns, Tailwind CSS, MERN Stack
 - 🎮 **Hobbies:** Gaming, Exploring New Tools&Technologies, Building Side Projects
 - 🧩 **Passionate About:** UI/UX Design & Graphic Designing & Thumbnail Designing
 
-<p align="center">"Code is poetry written in logic, and every bug is just a plot twist!"</p>
+## <p align="center">"Code is poetry written in logic, and every bug is just a plot twist!"</p>
 
 <div align="center">
 <h2>Arigato Gozaimasu! ✨🤍</h2>
