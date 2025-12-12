@@ -18,7 +18,7 @@
 - 🎮 **Hobbies:** Gaming, Exploring New Tools&Technologies, Building Side Projects
 - 🧩 **Passionate About:** UI/UX Design & Graphic Designing & Thumbnail Designing
 
-## <p align="center">"Code is poetry written in logic, and every bug is just a plot twist!"</p>
+## <p align="center">"Creativity is the spark, passion is the flame—together they turn ideas into art!"</p>
 
 <div align="center">
 <h2>Arigato Gozaimasu! ✨🤍</h2>
