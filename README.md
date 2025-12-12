@@ -14,7 +14,7 @@
 - 🎓 **AI&ML Student** passionate about technology and coding
 - 💻 **Self-Taught Developer** with a love for learning
 - 🌍 **Location:** India 🇮🇳
-- 🎯 **Current Learning:** Advanced React Patterns, Tailwind CSS, MERN Stack
+- 🎯 **Current Learning:** Advanced React Patterns, Tailwind CSS, UI/UX Designing
 - 🎮 **Hobbies:** Gaming, Exploring New Tools&Technologies, Building Side Projects
 - 🧩 **Passionate About:** UI/UX Design & Graphic Designing & Thumbnail Designing
 
